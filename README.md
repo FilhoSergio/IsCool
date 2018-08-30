@@ -1,4 +1,8 @@
-# IsCool(School)
+# IsCool(School) :green_book:
+:blue_book:
+:orange_book:
+:notebook:
+:notebook_with_decorative_cover:
 
 
 # Grunt.JS: Criando um sistema escolar com Grunt e CoffeeScript 
